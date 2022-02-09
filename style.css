@@ -322,3 +322,33 @@ main {
     line-height: 1.8rem;
     color: #808080;
 }
+.product-detail--card .eyes {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-bottom: 10px;
+    background-image: url('./assets/icons/eye.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.product-detail--card .money {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-bottom: 10px;
+    background-image: url('./assets/icons/dollar-sign.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.product-detail--card .tik {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-bottom: 10px;
+    background-image: url('./assets/icons/check-circle.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
